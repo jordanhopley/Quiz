@@ -1,0 +1,12 @@
+[
+  {
+    "categoryID": "Entertainment",
+    "question": "Example question?",
+    "answer": "Example answer"
+  },
+  {
+    "categoryID": "Food and Drink",
+    "question": "Example question?",
+    "answer": "Example answer"
+  }
+]
